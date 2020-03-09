@@ -1,2 +1,2 @@
 # nati-f.github.io
-Create nati-f.github.io page
+Link to my GitHub Page: [https://nati-f.github.io/rsschool-cv/cv]
